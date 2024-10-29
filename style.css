@@ -1,0 +1,40 @@
+
+html{
+    background-color: black;
+}
+#image{
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border: 3px solid white;
+}
+#meme{
+    height: 100%;
+    width: 100%;
+}
+
+#daenerys{
+    height: 100%;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#catchphrase{
+    font-family: "Libre Baskerville", serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#smaller-catchphrase{
+    font-family: "Libre Baskerville", serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
